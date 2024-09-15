@@ -3,6 +3,8 @@ The code for Legion killfeed remade for free. Console DayZ killfeed using Nitrad
 [![Rick Astley - Never Gonna Give You Up](https://img.youtube.com/vi/xvFZjo5PgG0/0.jpg)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 # Star if you got Rick Rolled (Winky Face cutie)
+![Profile Views](https://komarev.com/ghpvc/?username=kamikaze-skynet&style=flat-square)
+
 ```markdown
 
 We're no strangers to love
