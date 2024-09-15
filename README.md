@@ -5,10 +5,6 @@ The code for Legion killfeed remade for free. Console DayZ killfeed using Nitrad
 Sure, here's how you can format the lyrics for "Never Gonna Give You Up" by Rick Astley in a GitHub markdown file:
 
 ```markdown
-# Never Gonna Give You Up
-## Rick Astley
-
-### Lyrics
 
 We're no strangers to love
 You know the rules and so do I
